@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="lineMargin">20dp</dimen>
+    <dimen name="leftPad">16dp</dimen>
+    <dimen name="imgTop">50dp</dimen>
+    <dimen name="imgHieght">300dp</dimen>
+</resources>
